@@ -1,5 +1,5 @@
 # Ex03 Time Table
-# Date:
+# Date:29-04-25
 # AIM
 To write a html webpage page to display your slot timetable.
 
@@ -25,6 +25,10 @@ Execute the program using runserver command.
 # PROGRAM
 ![Screenshot 2025-04-28 152412](https://github.com/user-attachments/assets/66515b89-e77c-4ff0-ac68-87c0fa73ba4d)
 ![Screenshot 2025-04-28 152431](https://github.com/user-attachments/assets/ac43e35e-0c02-4875-8ba9-e9b336d95a7b)
+```
+    <html>
+    <body>
+    <table>
             <tr align="center"   >
                     <th >S.NO</th>
                     <th>Subject Code</th>
@@ -68,8 +72,10 @@ Execute the program using runserver command.
     </table>
     </body>
     </html>
+```
 # OUTPUT
-![image](https://github.com/user-attachments/assets/91d4e6f7-5529-4e2b-a999-df2135c85aeb)
+![Screenshot 2025-04-29 080532 pdf](https://github.com/user-attachments/assets/03c7bd69-95ae-4d8c-93f8-48bff68de1a5)
+
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
