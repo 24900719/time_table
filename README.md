@@ -26,7 +26,7 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SLOT TIME TABLE - Tharun R(24901164)</title>
+    <title>SLOT TIME TABLE - K Saranya(24900719)</title>
     <style>
         table {
             border-collapse: collapse;
@@ -62,7 +62,7 @@ Execute the program using runserver command.
 <body>
     <img src="logo.png">
     <div class="center-text">
-        <p><strong>SLOT TIME TABLE - Tharun R (24901164) </strong></p>
+        <p><strong>SLOT TIME TABLE - K Saranya (24900719) </strong></p>
     </div>
     <table>
         <tr>
